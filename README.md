@@ -5,5 +5,7 @@ Despues conectamos con el repositorio remoto con los siguientes comandos:
 
 ```bash
 $ git remote set-url origin git@github.com:dgmx/mi_repo.git
+
+$ git clone git@github.com:dgmx/mi_repo.git
 $ git branch -M main
 $ git push -u origin main
